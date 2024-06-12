@@ -23,7 +23,7 @@ def determine_winner(user_input, comp_guess):
 
         return "You win!"
     else:
-        "You Lost!"
+        return "You Lost!"
 
 
 def run_game():
